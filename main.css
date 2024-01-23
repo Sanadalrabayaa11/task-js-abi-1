@@ -1,0 +1,11 @@
+span{
+    display: flex;
+    flex-wrap: wrap;
+}
+h2{
+    color: red;
+}
+img{
+    width: 30%;
+    height: 30%;
+}
